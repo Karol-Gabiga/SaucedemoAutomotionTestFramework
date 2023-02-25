@@ -28,4 +28,3 @@ class BaseClass:
     def get_page_title(self, title):
         self.wait.until(EC.title_is(title))
         return self.driver.title
-

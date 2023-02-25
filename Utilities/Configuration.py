@@ -1,0 +1,7 @@
+TEST_PAGE = "https://www.saucedemo.com/"
+VALID_USERNAME_1 = "standard_user"
+VALID_USERNAME_2 = "locked_out_user"
+VALID_USERNAME_3 = "problem_user"
+VALID_USERNAME_4 = "performance_glitch_user"
+VALID_PASSWORD = "secret_sauce"
+PAGE_TITLE = "Swag Labs"
